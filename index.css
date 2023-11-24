@@ -78,6 +78,8 @@ ul{
 li:hover{
     background-color: #9995ad;
     cursor: pointer;
+    color: #000000;
+    font-weight: bold;
 }
 
 ul li{
