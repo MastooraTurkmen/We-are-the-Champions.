@@ -25,7 +25,7 @@ h1{
     font-size: 25px;
 }
 
-input{
+textarea{
    width: 317px;
    height: 118px;
    background: #444059;
@@ -33,6 +33,7 @@ input{
    border-radius: 8px;
    color: #F5F5F5;
    font-size: 15px;
+   resize: none;
    padding-left: 12px;
 
 }
