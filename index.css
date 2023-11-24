@@ -26,6 +26,7 @@ h1{
 }
 
 textarea{
+   width: 320px;
    height: 118px;
    background: #444059;
    border: none;
