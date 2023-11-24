@@ -26,13 +26,12 @@ h1{
 }
 
 textarea{
-   width: 317px;
    height: 118px;
    background: #444059;
    border: none;
    border-radius: 8px;
    color: #F5F5F5;
-   font-size: 15px;
+   font-size: .8em;
    resize: none;
    padding: 1.5em;
 
