@@ -73,7 +73,6 @@ ul{
     margin: 0 auto;
     margin-bottom: 30px;
     padding: 0;
-    border-radius: 8px;
 }
 
 li:hover{
@@ -87,12 +86,13 @@ ul li{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 1em;
     color: #1B1924;
     background: #FFFFFF;
     padding: 15px;
     flex-grow: 1;
     margin-bottom: 10px;
     list-style-type: none;
+    border-radius: 8px;
 
 }
