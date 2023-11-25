@@ -4,5 +4,5 @@
 
 This is an amazing app that you can send meassege as well as clear them with a click on them.
 
-![Alt text](image.png)
+![Alt text](./Images/image.png)
 
